@@ -20,3 +20,32 @@
 ***这是粗斜体***
 
 超链接请，[点我](http://www.baidu.com)
+
+> 这是一串引用文字
+
+1. asd
+1. cas
+1. fexf
+
++ asd
+  + 1515
+  + 8451
++ cas
++ fexf
+
+- asd
+- cas
+- fexf
+
+* asd
+* cas
+* fexf
+
+```cpp
+#include <stdio.h>
+
+int main()
+{
+    printf("这是代码引用");
+}
+```
