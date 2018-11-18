@@ -19,4 +19,4 @@
 
 ***这是粗斜体***
 
-超链接请，[点我](www.baidu.com)
+超链接请，[点我](http://www.baidu.com)
